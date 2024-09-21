@@ -1,16 +1,5 @@
-# Nerfies
+# ChatBuilder
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+[ChatBuilder website](https://nerfies.github.io).
 
-If you find Nerfies useful for your work please cite:
-```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
-}
-```
-
-# Website License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Modular robotic structures simplify robot design and manufacturing by using standardized modules, enhancing flexibility and adaptability. However, physical constraints and the need for manual input in design and assembly limit their potential. Current methods to automate this process still require significant human effort and technical expertise. We introduce a novel approach that employs Large Language Models (LLMs) as intelligent agents to automate the creation of modular robotic structures. We decompose the modular robot creation task and develop two agents based on LLM to plan and assemble the modular robots from text prompts. By inputting a textual description, users can generate robot designs that are validated in both simulated and real-world environments. This method reduces the need for manual intervention and lowers the technical barrier to creating complex robotic systems.
